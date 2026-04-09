@@ -1,35 +1,35 @@
-# Hola, soy RobeDevG
+<h1 align="center">Hola, soy Roberto <img alt="GIF" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-![Programador](https://img.shields.io/badge/Programador-Frontend-orange?style=plastic&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=plastic&logo=node.js&logoColor=white)
+<img align="right" alt="GIF" height="320" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-## Acerca de mí
-Soy un desarrollador entusiasta, apasionado por la creación de aplicaciones web innovadoras y funcionales. Me encanta aprender nuevas tecnologías y aplicar mis conocimientos en proyectos desafiantes.
+<h3> Acerca de mí </h3>
+<ul>
+  <li>👨🏻‍💻 Desarrollador Web Full Stack con experiencia en React y TypeScript</li>
+  <li>❤️ Apasionado por el desarrollo frontend y la creación de interfaces atractivas</li>
+  <li>🌱 Especializado en aplicaciones web modernas y SaaS</li>
+  <li>👯 Buscando colaborar en proyectos de Desarrollo Web</li>
+  <li>💥 Minimalista | Simplificando lo difícil</li>
+</ul>
+<br/>
 
-## Habilidades
-- Desarrollo Frontend: HTML, CSS, JavaScript
-- Frameworks: React, Vue
-- Backend: Node.js, Express
-- Bases de datos: MongoDB, MySQL
+<h3>Tecnologías y Herramientas</h3>
 
-## Proyectos
-- [Proyecto 1](https://github.com/miusuario/proyecto1): Descripción corta del proyecto 1.
-- [Proyecto 2](https://github.com/miusuario/proyecto2): Descripción corta del proyecto 2.
-- [Proyecto 3](https://github.com/miusuario/proyecto3): Descripción corta del proyecto 3.
+<div>
+  <img width="400px" height="300px" src="https://skills.syvixor.com/api/icons?perline=15&i=html5,css3,javascript,typescript,reactjs,nextjs" />
+  <br/>
+  <img width="400px" height="300px" src="https://skills.syvixor.com/api/icons?perline=15&i=tailwind,react-native,expo,supabase,git,github,sass,bootstrap,vite"/>
+</div>
 
-## Experiencia
-- **Desarrollador Web** en Empresa ABC (2023 - presente)
-  - Responsabilidades y logros.
-- **Desarrollador Junior** en Empresa XYZ (2021 - 2023)
-  - Responsabilidades y logros.
+<h3>Contacto</h3>
 
-## Información de contacto
-📧 Correo: [correo@ejemplo.com](mailto:correo@ejemplo.com)  
-🔗 LinkedIn: [linkedin.com/in/robe-devg](https://linkedin.com/in/robe-devg)  
-🌍 GitHub: [github.com/RobeDevG](https://github.com/RobeDevG)  
-
----  
-*Este README fue generado automáticamente.*
+<div>
+  <a href="mailto:robertodev97@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://robedevg.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web&logoColor=white" />
+  </a>
+  <a href="tel:+5358672669" target="_blank">
+    <img src="https://img.shields.io/badge/Teléfono-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</div>
